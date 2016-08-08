@@ -1,3 +1,3 @@
-# Sokoban-Game-v2
+# Sokoban-Game-v6
 
 Copyright 2016 Ali Mac
