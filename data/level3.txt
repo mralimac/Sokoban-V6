@@ -1,0 +1,5 @@
+w,w,w,
+w,p,w,
+w,b,w,
+w,d,w,
+w,w,w,
